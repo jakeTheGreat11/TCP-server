@@ -34,5 +34,4 @@ Before running the server, ensure that you have the following:
 ## Important Notes
 
 - This server listens on port `54000` by default. You can change the port by modifying the `hint.sin_port` value in the code.
-- Make sure to handle errors and exceptions appropriately, especially when dealing with socket operations.
 - Ensure that the Winsock library is correctly linked during compilation to avoid linker errors.
