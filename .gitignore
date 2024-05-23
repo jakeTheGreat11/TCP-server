@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.out
+*.obj
+*.dll
+*.log
+cmake-build-*
